@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pek:home|Door43 (pek)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pek|d43-pek repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pek/archive/master.zip|d43-pek.zip]]
+
+**Recent Changes**
+{{changes>ns = pek}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pek|Ethnologue data]]
+
